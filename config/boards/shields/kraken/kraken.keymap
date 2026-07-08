@@ -26,7 +26,7 @@
    &kp CAPS   &kp A     &kp S     &kp D         &kp F      &kp G                &kp H      &kp J     &kp K      &kp L     &kp SEMI  &kp RET
    &kp LSHFT  &kp Z     &kp X     &kp C         &kp V      &kp B                &kp N      &kp M     &kp COMMA  &kp DOT   &kp UARW  &kp APOS
    &kp LCTRL  &kp LALT  &kp LGUI  &kp LG(LS(S)) &kp LG(L)  &kp C_VOL_UP         &kp LC(C)  &kp LC(P) &kp LARW   &kp LARW  &kp DARW  &kp RARW
-                                                &kp SPACE  &mo 1                &mo 1      &SPACE
+                                                &kp SPACE  &mo 1                &mo 1      &kp SPACE
                         >;
                 };
                 lower_layer {
