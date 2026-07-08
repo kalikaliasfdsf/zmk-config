@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: kraken_
+    shield: kraken_left
   - board: nice_nano_v2
     shield: kraken_right
