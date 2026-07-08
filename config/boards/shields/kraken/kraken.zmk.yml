@@ -1,13 +1,12 @@
 file_format: "1"
 id: kraken
-name: Krakne
+name: Kraken
 type: shield
 url: https://github.com/kalikaliasfdsf/zmk-config
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
   - keys
-  - display
 siblings:
-  - corne_left
-  - corne_right
+  - kraken_left
+  - kraken_right
